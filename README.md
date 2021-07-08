@@ -1,1 +1,1 @@
-## The preview of the html page can be seen [here](https://htmlpreview.github.io/?https://github.com/Jyotshna-koilada/Home-page-without-jekyll/blob/main/Home%20Page.html#myCarousel)
+## This is a website developed as a part of Independent Project in our 3rd semester (August - December 2020). This is a website for the undergraduate community of IIT Hyderabad.
